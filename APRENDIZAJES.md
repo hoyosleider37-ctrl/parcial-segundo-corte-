@@ -36,5 +36,5 @@ Herramienta usada: **Claude (Anthropic)**.
 
 | Integrante | Aporte |
 |---|---|
-| Marco Obregón | _(ej. estructura HTML, hero y navegación)_ |
-| Leider Marino Hoyos | _(ej. CSS de tarjetas, pósters y responsive)_ |
+| Marco Obregón | _(estructura HTML, Hero y navegación) |
+| Leider Marino Hoyos | _( CSS de tarjetas, pósters y responsive)_ |
